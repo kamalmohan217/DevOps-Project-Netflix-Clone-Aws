@@ -9,9 +9,9 @@
 <br><br/>
 <br><br/>
 ```
-source Code:- https://github.com/singhritesh85/DevSecOps-Project.git
+source Code:- https://github.com/kamalmohan217/DevSecOps-Project.git
 
-Helm Chart:-   https://github.com/singhritesh85/helm-repo-for-netflix-clone.git
+Helm Chart:-   https://github.com/kamalmohan217/helm-repo-for-netflix-clone.git
 ```
 <br><br/>
 <br><br/>
