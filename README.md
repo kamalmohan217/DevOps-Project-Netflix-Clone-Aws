@@ -11,7 +11,7 @@
 ```
 source Code:- https://github.com/singhritesh85/DevSecOps-Project.git
 
-Helm Repo:-   https://github.com/singhritesh85/helm-repo-for-netflix-clone.git
+Helm:-   https://github.com/singhritesh85/helm-repo-for-netflix-clone.git
 ```
 <br><br/>
 <br><br/>
