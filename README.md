@@ -34,6 +34,7 @@ Do the Email configuration in Jenkins as shown below.
 
 After Running the Jenkins Job Successfully, the screenshot of SonarQube, ArgoCD is as shown below.
 ![image](https://github.com/user-attachments/assets/7b608a46-6b1b-4ebe-9e12-3761065acadd)
+![image](https://github.com/user-attachments/assets/7ffcc45a-6f99-403c-ade4-4650814955c2)
 
 The entry for Route53 is as shwon below.
 ![image](https://github.com/user-attachments/assets/c1e3cf6f-fba3-4365-9684-cd2078beac5b)
