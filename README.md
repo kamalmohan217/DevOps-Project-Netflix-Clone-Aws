@@ -39,10 +39,12 @@ After Running the Jenkins Job Successfully, the screenshot of SonarQube, ArgoCD 
 The entry for Route53 is as shwon below.
 ![image](https://github.com/user-attachments/assets/c1e3cf6f-fba3-4365-9684-cd2078beac5b)
 
+Finally you can access the Application as shown in the screenshot attached below.
+![image](https://github.com/user-attachments/assets/8b6640da-0f9a-42ff-8022-07e1fba99b6b)
 
-
-
-
+After execution of Jenkins Job, email will be triggered for notification of Jenkins Job Completion Status.
+![image](https://github.com/user-attachments/assets/867f4e72-744f-4edc-98e4-29796310e896)
+![image](https://github.com/user-attachments/assets/b9d66e0b-066d-4965-928d-88b199864d6a)
 
 
 <br><br/>
